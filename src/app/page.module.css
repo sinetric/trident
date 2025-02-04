@@ -1,5 +1,24 @@
 
 .navbar {
-  width: 20vw;
+  width: 25vw;
   height: 100vh;
+  font-family: 'Spline Sans';
+}
+
+.user {
+  margin: 10px auto;
+  padding: 20px;
+  width: 90%;
+  background-color: #261522;
+  border-radius: 20px;
+}
+
+.user h3 {
+  font-weight: normal;
+}
+
+.tooltip {
+  font-weight: lighter;
+  font-size: 14px;
+  color: #eeeeee;
 }

@@ -11,8 +11,11 @@ export const metadata: Metadata = {
 function Navbar() {
   return (
     <div className={styles.navbar}>
-      <div>
-        
+      <div className={styles.user}>
+        <h3>Welcome, </h3>
+        <h4>Hunter Biden 👋</h4>
+        <br />
+        <p className={styles.tooltip}>- Aquaman (Trident AI assistant)</p>
       </div>      
     </div>
   );
