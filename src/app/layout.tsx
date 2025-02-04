@@ -7,10 +7,13 @@ export const metadata: Metadata = {
   description: "Server Manager",
 };
 
+
 function Navbar() {
   return (
     <div className={styles.navbar}>
-      
+      <div>
+        
+      </div>      
     </div>
   );
 }
