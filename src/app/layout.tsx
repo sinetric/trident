@@ -12,8 +12,8 @@ function Navbar() {
   return (
     <div className={styles.navbar}>
       <div className={styles.user}>
-        <h3>Welcome, </h3>
-        <h4>Hunter Biden 👋</h4>
+        <h4>Welcome, </h4>
+        <h3>Hunter Biden 👋</h3>
         <br />
         <p className={styles.tooltip}>- Aquaman (Trident AI assistant)</p>
       </div>      
